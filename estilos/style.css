@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(20deg, rgb(176, 158, 177), rgb(196, 43, 227));
+    height: 100vh;
+    margin: 0;
+    margin-top: 5%;
+
+}
+.contenedor{
+    display: inline-block;
+    
+}
+.contenedor1{
+    background-color: rgb(233, 184, 229);
+    margin-right: 2%;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contenedor2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(233, 184, 229);
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+.contenedor3{
+    margin-left: 2%;
+    background-color: rgb(233, 184, 229);
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
