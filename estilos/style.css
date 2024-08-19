@@ -6,8 +6,9 @@ body{
 
 }
 .contenedor{
-    display: inline-block;
-    
+    display: flex;
+    margin-top: 5%;
+    margin-left: 3%;
 }
 .contenedor1{
     background-color: rgb(233, 184, 229);
@@ -31,4 +32,15 @@ body{
     height: 200px;
     border-radius: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contenedorr{
+    margin-left: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(233, 184, 229);
+    width: 1200px;
+    height: 100px;
+    border-radius: 10px;
+    justify-content: center;
+    align-content: center;
+    padding-left: 2%;
 }
